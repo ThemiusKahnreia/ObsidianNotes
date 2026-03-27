@@ -1,0 +1,1 @@
+Themius is the last son of the Royal Line of Kahnreia, a Militaristic Snowy Kingdom to the north.
