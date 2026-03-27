@@ -1,3 +1,5 @@
 The Timeline for the campaign.
 
-This takes place further into the story of [[Themius V Kahnreia]], and his impact on [[The World of Eden]] at large
+This takes place further into the story of [[Themius V Kahnreia]], and his impact on [[The World of Eden]] at large.
+
+In 5327 H.A. ([[Heroic Age]])
