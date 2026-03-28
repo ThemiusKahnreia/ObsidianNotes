@@ -1,0 +1,3 @@
+A man who has control of a mercenary dark web site, having interviews with multiple mercenary company leaders, as well as helping companies and solo operators alike find each other for hiring and for work.
+
+Some say he's acted as a handler in the past, but nobody knows for sure. The mercenary company leaders who have met with him keep his identity completely secret through their own individual methods, and share so little information that its possible the identity of "The Interviewer" could actually be a multitude of people who only reach out to their given mercenary companies and collaborate in the shadows.
