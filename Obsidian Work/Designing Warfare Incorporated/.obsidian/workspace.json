@@ -6,6 +6,7 @@
       {
         "id": "ef3002f3282f7533",
         "type": "tabs",
+        "dimension": 47.85631517960602,
         "children": [
           {
             "id": "a71ddbdb93a4e094",
@@ -26,6 +27,7 @@
       {
         "id": "c6340d56d628062d",
         "type": "tabs",
+        "dimension": 52.14368482039398,
         "children": [
           {
             "id": "1685a3d5ae5d323f",
@@ -110,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warfare Incorporated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Warfare Incorporated"
+              "title": "Backlinks"
             }
           },
           {
@@ -129,12 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warfare Incorporated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Warfare Incorporated"
+              "title": "Outgoing links"
             }
           },
           {
@@ -172,13 +172,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warfare Incorporated.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Warfare Incorporated"
+              "title": "Outline"
             }
           }
         ]
@@ -200,7 +199,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a71ddbdb93a4e094",
+  "active": "1685a3d5ae5d323f",
   "lastOpenFiles": [
     "Warfare Incorporated.md"
   ]
