@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Concepts/Operators.md",
+                "file": "System Concepts/Player PMC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operators"
+              "title": "Player PMC"
             }
           }
         ]
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Concepts/Operators.md",
+                "file": "System Concepts/Player PMC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Operators"
+              "title": "Backlinks for Player PMC"
             }
           },
           {
@@ -131,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Concepts/Operators.md",
+                "file": "System Concepts/Player PMC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Operators"
+              "title": "Outgoing links from Player PMC"
             }
           },
           {
@@ -174,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Concepts/Operators.md",
+                "file": "System Concepts/Player PMC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Operators"
+              "title": "Outline of Player PMC"
             }
           }
         ]
@@ -202,10 +202,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a71ddbdb93a4e094",
+  "active": "3bdd47ccd97af697",
   "lastOpenFiles": [
-    "System Concepts/Specs.md",
     "System Concepts/Operators.md",
+    "System Concepts/Player PMC.md",
+    "System Concepts/Specs.md",
     "Warfare Incorporated.md",
     "System Concepts/Health and Damage System.md",
     "Private Military Companies.md",
