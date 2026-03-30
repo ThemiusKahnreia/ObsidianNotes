@@ -13,4 +13,5 @@ Initially storing the VTOL Tiltrotor airlift and transport aircraft "[[VT-29 Hou
 
 ## EXPORT AIRCRAFT FOR PURCHASE:
 
-- 
+- The [[VT-77]], a Tiltrotor produced by the same program as the [[VT-29 Hound]], but instead of airlifting and transport, focuses on being a multi-theater attack gunship tiltrotor aircraft. 
+- The [[MA-92 Appropriator]], a multirole-capable attack aircraft with a relatively low airspeed, but a lot of hardpoint mounting capacity.
