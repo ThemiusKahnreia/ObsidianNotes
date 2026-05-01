@@ -1,0 +1,1 @@
+Evasion is your capacity to avoid incoming fire, and how good you are at making yourself less of a target. This can relatively be substituted for by simply being a beefcake, however.
