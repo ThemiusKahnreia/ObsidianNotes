@@ -1,0 +1,3 @@
+The calendar system currently used by [[The World of Eden]] at large, this calendar contains 18 months with 28 days each. Winter takes up nearly 6, while the other seasons take up 4 each. Unlike Earth, these months have no names used at large. Some religions have put names to months or periods of the year, but these have never been adopted at large.
+
+This calendar is named for the Heroes in the previous Age of Moonlight, where the world was divided and there was no standardized calendar. These heroes, the [[Night Guard]], were the leaders of the [[Moonlight Crusade]]. Whence the [[Night Guard]] completed their quest, the world united under their banner for a period of time,
