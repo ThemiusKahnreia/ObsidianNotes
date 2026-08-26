@@ -1,4 +1,4 @@
-[[BODY]]
+[[BODY]] - 
 [[AGIL]] - "Agility"
-[[MIND]]
+[[MIND]] - 
 [[PRES]] - "PRESENCE"

@@ -1,0 +1,3 @@
+The newest [[Celestial of Lightning]]. He was forcibly ascended to this position, and no memories of his life as a mortal.
+
+He may have once been the king of the Tiefling Nation of [[Dzantia]], but that matters not anymore. Now, he is one of the only celestials to frequent the material plane, in order to learn about his new dominion, and to assist the people who helped him gain his footing as the world of Korada's youngest Celestial.

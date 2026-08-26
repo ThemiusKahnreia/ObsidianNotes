@@ -1,0 +1,1 @@
+The Father of [[Themius V Kahnreia]], and the Last Great King of Old Kahnreia. A legendary mage capable of three fonts of magic in succession, [[Arcana]], [[Divinia]], and [[Primia]], he was truly a force to be reckoned with. Which is why the [[Olvidarians]] were forced to kill him with undetectable, nonmagical poison.

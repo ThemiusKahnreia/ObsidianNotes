@@ -1,0 +1,1 @@
+The telling of the story that set in motion the rise of the famous Kingdom of [[Kahnreia]], and the start of the [[Heroic Age]].
